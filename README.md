@@ -12,21 +12,6 @@
 
 ---
 
-### Contact Me
-
-* **WhatsApp Portfolio**: [https://wa.me/your-whatsapp-number](https://wa.me/9545993850)
-* **Resume**: [https://github.com/rajan-115/resume/raw/main/resume.pdf]([https://github.com/rajan-115/resume/raw/main/resume.pdf](https://github.com/RAJAN-115/Resume.git))
-* **Email**: [rajanrp115@gmail.com](mailto:rajanrp115@gmail.com)
-
----
-
-### Projects
-
-* **Project 1**: [https://github.com/rajan-115/project1]([https://github.com/rajan-115/project1](https://rajan-115.github.io/Portfolio/))
-* **Project 2**: [https://github.com/rajan-115/project2](https://github.com/RAJAN-115/Color-Picker-Chrome_Extension.git)
-* **Project 3**: [https://github.com/rajan-115/project3](https://github.com/rajan-115/project3)
-
----
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
