@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajan-115&label=Profile%20views&color=0e75b6&style=flat" alt="rajan-115" />
-  <img src="https://img.shields.io/github/followers/rajan-115?label=Followers&style=social" alt="rajan-115"/>
+  <img src="https://img.shields.io/github/followers/rajan-115?label=Followers-60-blue&style=social" alt="rajan-115"/>
 </p>
 
 <p align="center">
