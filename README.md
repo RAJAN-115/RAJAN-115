@@ -17,19 +17,19 @@
 
 
 <p align="center">
-  <a href="https://wa.me/1234567890" target="_blank">
+  <a href="https://wa.me/9545993850" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/25D366/whatsapp.png" alt="WhatsApp" style="border-radius: 50%; width: 50px; height: 50px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:rajanrp115@gmail.com" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/D14836/gmail.png" alt="Email" style="border-radius: 50%; width: 50px; height: 50px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://https://rajan-115.github.io/Portfolio/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/portfolio.png" alt="Portfolio" style="border-radius: 50%; width: 50px; height: 50px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
   <a href="https://github.com/rajan-115" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" style="border-radius: 50%; width: 50px; height: 50px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/rajanrp115/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" alt="LinkedIn" style="border-radius: 50%; width: 50px; height: 50px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </p>
