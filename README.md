@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm RAJAN PRAJAPATI</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
 
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajan-115&label=Profile%20views&color=0e75b6&style=flat" alt="rajan-115" />
-  <img src="https://img.shields.io/github/followers/rajan-115?label=Followers-60-blue&style=social" alt="rajan-115"/>
+  <img src="https://img.shields.io/badge/Followers-9999-blue?style=social" alt="rajan-115"/>
 </p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rajan-115/rajan-115/main/coding.gif" alt="coding" width="400"/>
