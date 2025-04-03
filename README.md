@@ -26,7 +26,6 @@ Good Afternoon, Visitor! I'm Rajan Prajapati, a Computer Engineering graduate an
 - 💬 **Ask me about:** PHP, MERN stack, AI tools, or tech in general  
 - 📫 **Email:** rajarp115@gmail.com  
 - 📍 **Location:** Virar, Mumbai (MMR), Maharashtra, India  
-- ⏰ **Current Time:** 14:29 IST (as of my last update—time may vary!)  
 
 ---
 
