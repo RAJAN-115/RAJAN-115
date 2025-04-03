@@ -75,7 +75,6 @@ Good Afternoon, Visitor! I'm Rajan Prajapati, a Computer Engineering graduate an
 ## 💼 Skills Rating
 
 ### Technical Skills
-- **PHP:** ⭐⭐⭐⭐⭐⭐⭐⭐ (8/10)  
 - **HTML5:** ⭐⭐⭐⭐⭐⭐⭐⭐⭐ (9/10)  
 - **CSS3:** ⭐⭐⭐⭐⭐⭐⭐⭐ (8/10)  
 - **JavaScript:** ⭐⭐⭐⭐⭐⭐ (6/10)  
