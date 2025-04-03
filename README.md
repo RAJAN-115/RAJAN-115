@@ -156,8 +156,6 @@ Good Afternoon, Visitor! I'm Rajan Prajapati, a Computer Engineering graduate an
   <img src="https://raw.githubusercontent.com/RAJAN-115/RAJAN-115/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
-*(Note: To generate your own snake animation, use a tool like Platane/snk and host the SVG in your repo under `output/github-contribution-grid-snake-dark.svg`.)*
-
 ---
 
 <div align="center">
@@ -166,4 +164,4 @@ Good Afternoon, Visitor! I'm Rajan Prajapati, a Computer Engineering graduate an
   <a href="https://github.com/RAJAN-115"><img src="https://img.shields.io/badge/Visit_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub" /></a>
 </div>
 
-*(Note: Replace `https://example.com/resume.pdf` with the actual URL to your resume.)*
+
