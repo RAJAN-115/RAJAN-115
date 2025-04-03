@@ -113,7 +113,7 @@ Good Afternoon, Visitor! I'm Rajan Prajapati, a Computer Engineering graduate an
 - **React - Complete Developer Course** - *Udemy* (2023)  
 - **AI Tools for Developers** - *Online Certification* (2023)  
 
-*(Note: Replace with your actual certifications if different.)*
+
 
 ---
 
