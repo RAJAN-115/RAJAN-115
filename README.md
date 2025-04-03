@@ -130,33 +130,8 @@ Good Afternoon, Visitor! I'm Rajan Prajapati, a Computer Engineering graduate an
 
 ---
 
-## 📈 GitHub Activity Graph
 
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=RAJAN-115&theme=react-dark" alt="GitHub Activity Graph" />
-</div>
 
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RAJAN-115&theme=radical&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RAJAN-115&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RAJAN-115/RAJAN-115/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
-
----
 
 <div align="center">
   <h3>📥 Get in Touch or Explore More!</h3>
