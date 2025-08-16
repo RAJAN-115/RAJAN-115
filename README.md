@@ -19,7 +19,7 @@
 🎓 **Computer Engineering Graduate** (2024) from Pune University | **CGPA: 7.8/10**  
 💻 **C/C++ Programmer** & **MERN Stack Developer** passionate about building scalable applications  
 🤖 **AI Enthusiast** who loves integrating cutting-edge AI tools into development workflow  
-🌟 **150+ Problems Solved** on GeeksforGeeks and LeetCode  
+🌟 **200+ Problems Solved** on GeeksforGeeks and LeetCode  
 📈 **Performance Expert** - Achieved **90%+ Lighthouse scores** & **100 Google PageSpeed** on projects  
 
 ---
