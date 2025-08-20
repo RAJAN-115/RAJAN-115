@@ -182,7 +182,7 @@
 </table>
 
 ### 🎯 Key Accomplishments
-- 🌟 **150+ Algorithmic Problems** solved on GeeksforGeeks & LeetCode
+- 🌟 **200+ Algorithmic Problems** solved on GeeksforGeeks & LeetCode
 - 🏅 **Jupiter League Leaderboard** ranked on SoloLearn
 - 📱 **Custom ROM Expert** - Mobile device optimization & performance tuning
 - 👥 **Team Leadership** experience in competitive gaming events
