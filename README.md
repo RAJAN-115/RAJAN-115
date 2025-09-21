@@ -29,7 +29,7 @@
 
 | 🌍 REST Countries API | 🤖 AI Portfolio | 💼 Job Tracker |
 |:---:|:---:|:---:|
-| [![REST Countries API](https://raw.githubusercontent.com/RAJAN-115/RAJAN-115/main/rest-countries.jpg)](https://nationpalette.netlify.app/) | [![AI Portfolio](https://raw.githubusercontent.com/RAJAN-115/RAJAN-115/main/Screenshot-2025-09-18-152625.jpg)](https://rajansportfolio.vercel.app/) | [![Job Tracker](https://raw.githubusercontent.com/RAJAN-115/RAJAN-115/main/job-tracker.jpg)](https://job-tracker-dusky.vercel.app/) |
+| [![REST Countries API](https://github.com/RAJAN-115/RAJAN-115/blob/main/rest-countries.jpg?raw=true)](https://nationpalette.netlify.app/) | [![AI Portfolio](https://github.com/RAJAN-115/RAJAN-115/blob/main/Screenshot-2025-09-18-152625.jpg?raw=true)](https://rajansportfolio.vercel.app/) | [![Job Tracker](https://github.com/RAJAN-115/RAJAN-115/blob/main/job-tracker.jpg?raw=true)](https://job-tracker-dusky.vercel.app/) |
 | **Tech Stack:** React \| CSS \| JavaScript | **Tech Stack:** Next.js \| TypeScript \| OpenAI | **Tech Stack:** MERN Stack \| Real-time Updates |
 | **Features:** 250+ countries data with <150ms search | **Features:** Voice navigation & AI chatbot integration | **Features:** 100+ job applications with real-time updates |
 | **Deployed on:** Netlify | **Deployed on:** Vercel | **Deployed on:** Vercel |
