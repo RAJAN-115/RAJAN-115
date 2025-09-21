@@ -23,108 +23,108 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RAJAN-115&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-  <img src="https://img.shields.io/github/followers/RAJAN-115?label=Followers&style=social" alt="GitHub Followers" /> 
-  <img src="https://img.shields.io/github/stars/RAJAN-115?label=Stars&style=social" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=RAJAN-115&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/RAJAN-115.svg?style=social&label=Follow" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/RAJAN-115?style=social" alt="GitHub Stars" />
 </p>
 
 ---
 
 ## 🎯 Featured Projects
 
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <h3>🌍 <a href="https://github.com/RAJAN-115/rest-countries-api">REST Countries API</a></h3>
-      <a href="https://nationpalette.netlify.app/">
-        <img src="rest-countries.jpg" width="100%" alt="REST Countries API" />
-      </a>
-      <br/>
-      <p><strong>Tech Stack:</strong> React | CSS | JavaScript</p>
-      <p>250+ countries data with <150ms search performance</p>
-      <p>
-        <a href="https://nationpalette.netlify.app/">
-          <img src="https://img.shields.io/badge/Netlify-Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
-        </a>
-        <a href="https://github.com/RAJAN-115/rest-countries-api">
-          <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
-        </a>
-      </p>
-      <p><strong>Deployed on:</strong> Netlify</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>🤖 <a href="https://github.com/RAJAN-115/ai-portfolio">AI Portfolio</a></h3>
-      <a href="https://rajansportfolio.vercel.app/">
-        <img src="Screenshot-2025-09-18-152625.jpg" width="100%" alt="AI Portfolio" />
-      </a>
-      <br/>
-      <p><strong>Tech Stack:</strong> Next.js | TypeScript | OpenAI</p>
-      <p>Voice navigation & AI chatbot integration</p>
-      <p>
-        <a href="https://rajansportfolio.vercel.app/">
-          <img src="https://img.shields.io/badge/Vercel-Live-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-        </a>
-        <a href="https://github.com/RAJAN-115/ai-portfolio">
-          <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
-        </a>
-      </p>
-      <p><strong>Deployed on:</strong> Vercel</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>💼 <a href="https://github.com/RAJAN-115/job-tracker">Job Tracker</a></h3>
-      <a href="https://job-tracker-dusky.vercel.app/">
-        <img src="job-tracker.jpg" width="100%" alt="Job Tracker" />
-      </a>
-      <br/>
-      <p><strong>Tech Stack:</strong> MERN Stack</p>
-      <p>100+ job applications with real-time updates</p>
-      <p>
-        <a href="https://job-tracker-dusky.vercel.app/">
-          <img src="https://img.shields.io/badge/Vercel-Live-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-        </a>
-        <a href="https://github.com/RAJAN-115/job-tracker">
-          <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
-        </a>
-      </p>
-      <p><strong>Deployed on:</strong> Vercel</p>
-    </td>
-  </tr>
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 🌍 [REST Countries API](https://github.com/RAJAN-115/rest-countries-api)
+
+<a href="https://nationpalette.netlify.app/">
+  <img src="./rest-countries.jpg" alt="REST Countries API" width="250" height="150" style="border-radius: 10px;" />
+</a>
+
+**Tech Stack:** React | CSS | JavaScript  
+**Summary:** 250+ countries data with <150ms search performance  
+**Deployed on:** Netlify
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://nationpalette.netlify.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RAJAN-115/rest-countries-api)
+
+</td>
+<td align="center" width="33%">
+
+### 🤖 [AI Portfolio](https://github.com/RAJAN-115/ai-portfolio)
+
+<a href="https://rajansportfolio.vercel.app/">
+  <img src="./Screenshot-2025-09-18-152625.jpg" alt="AI Portfolio" width="250" height="150" style="border-radius: 10px;" />
+</a>
+
+**Tech Stack:** Next.js | TypeScript | OpenAI  
+**Summary:** Voice navigation & AI chatbot integration  
+**Deployed on:** Vercel
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rajansportfolio.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RAJAN-115/ai-portfolio)
+
+</td>
+<td align="center" width="33%">
+
+### 💼 [Job Tracker](https://github.com/RAJAN-115/job-tracker)
+
+<a href="https://job-tracker-dusky.vercel.app/">
+  <img src="./job-tracker.jpg" alt="Job Tracker" width="250" height="150" style="border-radius: 10px;" />
+</a>
+
+**Tech Stack:** MERN Stack  
+**Summary:** 100+ job applications with real-time updates  
+**Deployed on:** Vercel
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://job-tracker-dusky.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RAJAN-115/job-tracker)
+
+</td>
+</tr>
 </table>
+
+---
+
+## 📈 My Coding Activity - WakaTime Stats
+
+<p align="center">
+  <a href="https://wakatime.com/@RAJAN115">
+    <img src="https://wakatime.com/badge/user/018e8ad1-d97b-4d52-94c8-c9b6a31de0d1.svg" alt="Total time coded since Dec 23 2023" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com/@RAJAN115">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RAJAN115&theme=radical&hide_border=true&bg_color=0D1117" alt="WakaTime Coding Stats" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 Deployment Providers
 
 <p align="center">
-  <a href="https://render.com">
-    <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-  </a>
-  <a href="https://vercel.com">
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  </a>
-  <a href="https://netlify.com">
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-  </a>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 </p>
 
 ### Deployment Strategy
-- **Frontend Applications**: Vercel & Netlify for optimal performance
-- **Full-Stack Applications**: Render for backend services
-- **Static Sites**: Netlify for fast CDN delivery
-- **Next.js Projects**: Vercel for seamless integration
+• **Frontend Applications:** Vercel & Netlify for optimal performance  
+• **Full-Stack Applications:** Render for backend services  
+• **Static Sites:** Netlify for fast CDN delivery  
+• **Next.js Projects:** Vercel for seamless integration
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 **Computer Engineering Graduate (2024)** from Pune University | CGPA: 7.8/10
-
-💻 **MERN Stack Developer** passionate about building scalable applications with modern technologies
-
-🤖 **AI Enthusiast** who loves integrating cutting-edge AI tools into development workflows
-
-🌟 **Problem Solver** with 200+ algorithmic problems solved on GeeksforGeeks and LeetCode
-
+🎓 **Computer Engineering Graduate (2024)** from Pune University | CGPA: 7.8/10  
+💻 **MERN Stack Developer** passionate about building scalable applications with modern technologies  
+🤖 **AI Enthusiast** who loves integrating cutting-edge AI tools into development workflows  
+🌟 **Problem Solver** with 200+ algorithmic problems solved on GeeksforGeeks and LeetCode  
 📈 **Performance Expert** - Consistently achieving 90%+ Lighthouse scores & 100 Google PageSpeed
 
 ---
@@ -132,70 +132,57 @@
 ## 🛠️ Skills & Technologies
 
 ### 💻 Programming Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
 </p>
 
 ### 🎨 Frontend Development
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50"/>
 </p>
 
 ### ⚙️ Backend & Databases
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
 </p>
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-• 🌟 **200+ Algorithmic Problems** solved on GeeksforGeeks & LeetCode
-
-• 🏅 **Jupiter League Leaderboard** ranked on SoloLearn
-
-• 📜 **Multiple Certifications** from SimpliLearn, YHills, Udemy, and Yonity
-
-• 📱 **Custom ROM Expert** - Mobile device optimization & performance tuning
-
-• 👥 **Team Leadership** experience in competitive gaming events
-
+• 🌟 **200+ Algorithmic Problems** solved on GeeksforGeeks & LeetCode  
+• 🏅 **Jupiter League Leaderboard** ranked on SoloLearn  
+• 📜 **Multiple Certifications** from SimpliLearn, YHills, Udemy, and Yonity  
+• 📱 **Custom ROM Expert** - Mobile device optimization & performance tuning  
+• 👥 **Team Leadership** experience in competitive gaming events  
 • 🎓 **Consistent Academic Performance** - CGPA 7.6+ throughout engineering
-
----
-
-## 📈 WakaTime Coding Stats
-
-[![Wakatime](https://wakatime.com/badge/user/3b47389e-3306-4fe6-b908-e8682d10c42c.svg)](https://wakatime.com/@RAJAN115)
-
-[![Total time coded since Dec 2023](https://wakatime.com/badge/user/3b47389e-3306-4fe6-b908-e8682d10c42c/project/018b15c8-7d9a-4074-8b5e-bdfea3b54a6f.svg)](https://wakatime.com/@RAJAN115)
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAJAN-115&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJAN-115&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RAJAN-115&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJAN-115&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAJAN-115&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAJAN-115&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="800" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RAJAN-115&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RAJAN-115&theme=radical&row=1&column=6&margin-h=8&margin-w=8&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -210,8 +197,10 @@
 
 ### 💭 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-**Thanks for visiting! Let's connect and build something amazing together! 🚀**
+<p align="center">
+  <b>Thanks for visiting! Let's connect and build something amazing together! 🚀</b>
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
 </p>
