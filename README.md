@@ -1,12 +1,13 @@
 # 👋 Hi, I'm Rajan Prajapati
-
 ## 🚀 MERN Stack Developer | React Specialist | Next.js Expert | AI Enthusiast
 
 📍 Mumbai, India • 🎯 200+ DSA Problems Solved • 📈 90%+ Lighthouse Scores • 🚀 100 Google PageSpeed
 
 <!-- Animated tech marquee (SVG typing) top -->
 <p align="center">
-  <a href="https://isocpp.org/"><img src="https://readme-typing-svg.herokuapp.com?duration=2500&pause=800&color=67E8F9&center=true&vCenter=true&width=900&lines=C%2B%2B+•+Python+•+JavaScript+•+React+•+Next.js+•+Node.js+•+Express+•+MongoDB+•+MySQL+•+Tailwind+•+Netlify+•+Vercel+•+Render+•+GitHub+•+LinkedIn+•+WakaTime" alt="Animated Tech Row"/></a>
+  <a href="https://isocpp.org/">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2500&pause=800&color=67E8F9&center=true&vCenter=true&width=900&lines=C%2B%2B+•+Python+•+JavaScript+•+React+•+Next.js+•+Node.js+•+Express+•+MongoDB+•+MySQL+•+Tailwind+•+Netlify+•+Vercel+•+Render+•+GitHub+•+LinkedIn+•+WakaTime" alt="Animated Tech Row"/>
+  </a>
 </p>
 
 <!-- Social Icon Buttons (SVG logos with 3D hover cues) -->
@@ -36,85 +37,84 @@
     <img src="https://cdn.simpleicons.org/adobepdf/FF0000/ffffff" height="36" alt="Resume PDF" />
   </a>
   <a href="https://aidevportfolio.vercel.app/" title="Portfolio" target="_blank">
-    <img src="https://cdn.simpleicons.org/googlechrome/4285F4/ffffff" height="36" alt="Portfolio" />
+    <img src="https://cdn.simpleicons.org/react/61DAFB/ffffff" height="36" alt="Portfolio" />
   </a>
 </p>
 
 ### 🔗 Connect With Me
+
 <p align="center">
-  <a href="https://linkedin.com/in/rajanrp115"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://aidevportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?logo=googlechrome&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:rajanrp115@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://github.com/RAJAN-115"><img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/rajanrp115"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+  <a href="https://aidevportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a> 
+  <a href="mailto:rajanrp115@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+  <a href="https://github.com/RAJAN-115"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ## 🎯 Featured Projects
 
-<!-- Glassmorphism + 3D illusion via shadows/overlays. GitHub strips CSS, so we approximate using inline styles and layered images. -->
 <div align="center">
   <table>
     <tr>
-      <td>
+      <td align="center">
         <a href="https://nationpalette.netlify.app/">
-          <img src="./rest-countries.jpg" alt="REST Countries API" width="280" style="border-radius:18px; box-shadow: 0 18px 40px rgba(0,0,0,.35); border:1px solid rgba(255,255,255,.18); background: rgba(255,255,255,.08);" />
+          <img src="rest-countries.jpg" alt="REST Countries API" width="300" height="200" style="border-radius: 10px;"/>
         </a>
-        <br/>
-        <b>REST Countries API</b>
-        <br/>
-        <sub>React • CSS • JavaScript</sub>
+        <br><b>REST Countries API</b><br>
+        <small>React • CSS • JavaScript</small>
       </td>
-      <td>
+      <td align="center">
         <a href="https://job-tracker-dusky.vercel.app/">
-          <img src="./job-tracker.jpg" alt="Job Tracker" width="280" style="border-radius:18px; box-shadow: 0 18px 40px rgba(0,0,0,.35); border:1px solid rgba(255,255,255,.18); background: rgba(255,255,255,.08);" />
+          <img src="job-tracker.jpg" alt="Job Tracker" width="300" height="200" style="border-radius: 10px;"/>
         </a>
-        <br/>
-        <b>Job Tracker</b>
-        <br/>
-        <sub>MERN • Real-time Updates</sub>
+        <br><b>Job Tracker</b><br>
+        <small>MERN • Real-time Updates</small>
       </td>
-      <td>
+      <td align="center">
         <a href="https://rajansportfolio.vercel.app/">
-          <img src="./Screenshot-2025-09-18-152625.jpg" alt="AI Portfolio" width="280" style="border-radius:18px; box-shadow: 0 18px 40px rgba(0,0,0,.35); border:1px solid rgba(255,255,255,.18); background: rgba(255,255,255,.08);" />
+          <img src="Screenshot-2025-09-18-152625.jpg" alt="AI Portfolio" width="300" height="200" style="border-radius: 10px;"/>
         </a>
-        <br/>
-        <b>AI Portfolio</b>
-        <br/>
-        <sub>Next.js • TypeScript • OpenAI</sub>
+        <br><b>AI Portfolio</b><br>
+        <small>Next.js • TypeScript • OpenAI</small>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Animated tech marquee (SVG typing) bottom -->
+<!-- Second Animated Tech Row -->
 <p align="center">
-  <a href="https://react.dev/"><img src="https://readme-typing-svg.herokuapp.com?duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=900&lines=C%2B%2B+•+Python+•+JavaScript+•+React+•+Next.js+•+Node.js+•+Express+•+MongoDB+•+MySQL+•+Tailwind+•+Netlify+•+Vercel+•+Render+•+GitHub+•+LinkedIn+•+WakaTime" alt="Animated Tech Row"/></a>
+  <a href="https://react.dev/">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2500&pause=800&color=67E8F9&center=true&vCenter=true&width=900&lines=Performance+Optimized+•+90%2B+Lighthouse+•+100+PageSpeed+•+SEO+Friendly+•+Responsive+Design+•+Modern+UI/UX+•+Clean+Code+•+Best+Practices" alt="Animated Tech Row"/>
+  </a>
 </p>
 
 ## 👨‍💻 About Me
+
 Computer Engineering Graduate (2024) | MERN Stack Developer passionate about building scalable applications with modern technologies. AI Enthusiast integrating cutting-edge AI tools. 200+ problems solved on GFG/LeetCode. Performance: 90%+ Lighthouse & 100 PageSpeed.
 
 ## 🛠️ Skills & Technologies
-- Languages: JavaScript, TypeScript, Python, Java, C++
-- Frontend: React, Next.js, HTML5, CSS3, TailwindCSS
-- Backend: Node.js, Express.js, MongoDB, MySQL
-- Tools: Git, GitHub, VS Code, NPM, Postman
+
+- • **Languages:** JavaScript, TypeScript, Python, Java, C++
+- • **Frontend:** React, Next.js, HTML5, CSS3, TailwindCSS
+- • **Backend:** Node.js, Express.js, MongoDB, MySQL
+- • **Tools:** Git, GitHub, VS Code, NPM, Postman
 
 ## 🏆 Achievements & Certifications
-- 200+ Algorithmic Problems (GFG/LeetCode)
-- Jupiter League Leaderboard (SoloLearn)
-- Certifications: SimpliLearn, YHills, Udemy, Yonity
-- Custom ROM Expert; Team Leadership in e-sports; CGPA 7.6+
 
-<!-- Live, Auto-updating, SVG-only Badges with subtle 3D via gradients/shadows (as supported) -->
+- • **200+ Algorithmic Problems** (GFG/LeetCode)
+- • **Jupiter League Leaderboard** (SoloLearn)
+- • **Certifications:** SimpliLearn, YHills, Udemy, Yonity
+- • **Custom ROM Expert**; Team Leadership in e-sports; CGPA 7.6+
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RAJAN-115&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/RAJAN-115?style=for-the-badge" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/RAJAN-115?style=for-the-badge" alt="Stars"/>
-  <img src="https://img.shields.io/github/repo-count/RAJAN-115?style=for-the-badge" alt="Public Repos"/>
+  <img src="https://komarev.com/ghpvc/?username=RAJAN-115&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/> 
+  <img src="https://img.shields.io/github/followers/RAJAN-115?label=Followers&style=social" alt="Followers"/> 
+  <img src="https://img.shields.io/github/stars/RAJAN-115?label=Stars&style=social" alt="Stars"/> 
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/RAJAN-115" alt="Public Repos"/> 
   <img src="https://img.shields.io/github/last-commit/RAJAN-115/RAJAN-115?style=for-the-badge" alt="Latest Commit"/>
 </p>
 
 ## 📊 GitHub Statistics
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RAJAN-115&show_icons=true&theme=transparent" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJAN-115&layout=compact&theme=transparent" alt="Top Languages"/>
@@ -122,16 +122,15 @@ Computer Engineering Graduate (2024) | MERN Stack Developer passionate about bui
 </p>
 
 ## 🐍 Contribution Snake
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/RAJAN-115/RAJAN-115/output/snake.svg" alt="Snake animation"/>
 </p>
 
 ## ⏱️ WakaTime
-<p align="center">
-  <a href="https://wakatime.com/@RAJAN115">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RAJAN115&layout=compact&langs_count=8&theme=transparent" alt="WakaTime Stats"/>
-  </a>
-</p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
